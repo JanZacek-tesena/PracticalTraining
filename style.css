@@ -1,0 +1,63 @@
+﻿/* Main elements of the page */
+
+body
+{
+    font-family: 'Trebuchet MS', Arial, sans-serif;
+
+	
+	font-size: 24px;
+	
+	
+}
+
+#main_wrapper
+{
+	
+    width: 900px;
+    margin: auto;
+	background: yellow;
+
+
+
+/* Header */
+#main_title
+{
+	width: 900px;
+	margin: auto;
+	background: gray;
+}
+
+
+/* Banner */
+
+
+/* Body */
+
+	
+
+#article
+{
+
+		float: left;
+		margin: 0 1.5%;
+		width: 65%;
+		background: gray;
+		
+}
+#aside
+{
+	float: right;
+	margin: 0 1.5%;
+	width: 30%;
+	background: green;
+	
+	
+}
+
+
+
+
+/* Footer */
+
+
+}
